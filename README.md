@@ -67,6 +67,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📖 Documentation
 - [Wiki](https://github.com/KingMod2008/RL-NameSpoofer/wiki) (coming soon)
 - [FAQ](https://github.com/KingMod2008/RL-NameSpoofer/wiki/FAQ) (coming soon)
+  ## My Project
+
+**Language:** C++
+
 
 ## 🎮 Enjoy!
 Happy spoofing! 🎉
